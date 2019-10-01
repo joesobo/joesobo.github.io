@@ -89,7 +89,11 @@ section {
   height: 400px;
   text-align: center;
   overflow: hidden;
-  margin-bottom: 30px;
+  margin-bottom: 50px;
+}
+
+.box:hover {
+  opacity: 0.4;
 }
 
 /*
