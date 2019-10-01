@@ -87,6 +87,7 @@ section {
 
 .box {
   height: 330px;
+  overflow: hidden;
   margin-bottom: 30px;
 }
 
